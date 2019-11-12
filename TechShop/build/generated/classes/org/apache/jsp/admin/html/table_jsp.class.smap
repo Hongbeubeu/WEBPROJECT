@@ -1,0 +1,14 @@
+SMAP
+table_jsp.java
+JSP
+*S JSP
+*F
++ 0 table.jsp
+admin/html/table.jsp
+*L
+1,27:44
+28,2:71,3
+30,126:77
+156:203,3
+157,4:206
+*E
